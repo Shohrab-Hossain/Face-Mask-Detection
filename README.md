@@ -45,11 +45,12 @@ In the field of computer vision, face perception is the most common study topic.
 
 
 
-
+</br>
 <p align=center>
    <img src="readme-lib\Haar.png" alt="Haar Cascade Features" width="40%" style="min-width:90px;" />
 </p>
 
+</br>
 
 > Figure 01. Haar Cascade Features
 
@@ -62,11 +63,12 @@ In the field of computer vision, face perception is the most common study topic.
 
 Nowadays, one of the most essential technologies is face mask detection. For this, a variety of machine learning tools can be used. For this type of Detection, `Deep Learning` is the ideal option. Following the detection of a face in an image or video, a deep learning network, such as a Convolutional Neural Network, can be employed for detection. When compared to other machine learning technologies, CNN has a few advantages in image processing.
 
-
+</br>
 <p align=center>
    <img src="readme-lib\Face Detection.jpg" alt="Face Detection" width="70%" style="min-width:110px;" />
 </p>
 
+</br>
 
 > Figure 02. Face Mask Detection
 
@@ -91,11 +93,12 @@ This study aims to design a CNN structure for Face Mask Detection. The methodolo
 
 
 
-
+</br>
 <p align=center>
    <img src="readme-lib\Methodology.png" alt="Methodology" width="85%" style="min-width:150px;" />
 </p>
   
+</br>
 
 > Figure 03. Methodology
 
@@ -111,11 +114,12 @@ In **preprocessing stage**, the raw dataset will be processed first. There are p
 
 
 
-
+</br>
 <p align=center>
    <img src="readme-lib\Preprocessing.png" alt="Preprocessing" width="90%" style="min-width:150px;" />
 </p>
 
+</br>
 
 > Figure 04. Preprocessing Flow Chart
 
@@ -133,11 +137,12 @@ In the **training stage**, the `labels` are separated from the `annotation file`
 
 
 
-
+</br>
 <p align=center>
    <img src="readme-lib\Training.png" alt="Training" width="90%" style="min-width:150px;" />
 </p>
 
+</br>
 
 > Figure 05. Training Flow Chart
 
@@ -153,11 +158,12 @@ In the detection stage, a sample picture will be imported from the dataset. Then
 
 
 
-
+</br>
 <p align=center>
    <img src="readme-lib\Detection.png" alt="Detection" width="90%" style="min-width:150px;" />
 </p>
 
+</br>
 
 > Figure 06. Detection Flow Chart
 
@@ -173,15 +179,17 @@ CNN, like other neural networks, has input and output layers. There are many hid
 
 
 
-
+</br>
 <p align=center>
    <img src="readme-lib\Design of CNN.png" alt="Design of CNN" width="95%" style="min-width:150px;" />
 </p>
 
+</br>
 
 > Figure 07. Design of CNN
 
-
+</br>
+</br>
 
 Details about each of these layers can be found [here](https://uk.mathworks.com/discovery/convolutional-neural-network-matlab.html).
 
@@ -198,11 +206,12 @@ The *training machine* contains `8.00 GB` of **RAM**, a `64-bit` **operating sys
 
 </br>
 
-
+</br>
 <p align=center>
    <img src="readme-lib\Result plot.png" alt="Result plot" width="70%" style="min-width:100px;" />
 </p>
 
+</br>
 
 > Figure 08. Result of Training
 
@@ -214,11 +223,12 @@ The *training machine* contains `8.00 GB` of **RAM**, a `64-bit` **operating sys
 
 When tested with test data, the trained model had an `accuracy` of **92.00 %**. The model’s performance is depicted in Figure 09.
 
-
+</br>
 <p align=center>
    <img src="readme-lib\Model Performance.png" alt="Model Performance" width="80%" style="min-width:120px;" />
 </p>
 
+</br>
 
 > Figure 09. Model Performance
 
@@ -227,7 +237,7 @@ When tested with test data, the trained model had an `accuracy` of **92.00 %**. 
 
 Some of the predicted images are shown below,
 
-
+</br>
 <p align=center>
    <img src="readme-lib\Detection 01.png" alt="Detection 01" width="40%" style="min-width:80px;" />
 </p>
@@ -244,6 +254,7 @@ Some of the predicted images are shown below,
    <img src="readme-lib\Detection 04.png" alt="Detection 04" width="40%" style="min-width:80px;" />
 </p>
 
+</br>
 
 > Figure 10. Predicted Images
 
