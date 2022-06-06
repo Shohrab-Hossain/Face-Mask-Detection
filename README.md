@@ -2,7 +2,7 @@
 
 
 <p align=center>
-   <img src="readme-lib\Detection 03.png" alt="Logo" width="70%" style="min-width:150px;" />
+   <img src="readme-lib\Detection 03.png" alt="Logo" width="70%" style="min-width:180px;" />
 </p>
 
 </br>
@@ -47,7 +47,7 @@ In the field of computer vision, face perception is the most common study topic.
 
 </br>
 <p align=center>
-   <img src="readme-lib\Haar.png" alt="Haar Cascade Features" width="40%" style="min-width:90px;" />
+   <img src="readme-lib\Haar.png" alt="Haar Cascade Features" width="40%" style="min-width:150px;" />
 </p>
 
 </br>
@@ -95,7 +95,7 @@ This study aims to design a CNN structure for Face Mask Detection. The methodolo
 
 </br>
 <p align=center>
-   <img src="readme-lib\Methodology.png" alt="Methodology" width="85%" style="min-width:150px;" />
+   <img src="readme-lib\Methodology.png" alt="Methodology" width="85%" style="min-width:170px;" />
 </p>
   
 </br>
@@ -116,7 +116,7 @@ In **preprocessing stage**, the raw dataset will be processed first. There are p
 
 </br>
 <p align=center>
-   <img src="readme-lib\Preprocessing.png" alt="Preprocessing" width="90%" style="min-width:150px;" />
+   <img src="readme-lib\Preprocessing.png" alt="Preprocessing" width="90%" style="min-width:160px;" />
 </p>
 
 </br>
@@ -139,7 +139,7 @@ In the **training stage**, the `labels` are separated from the `annotation file`
 
 </br>
 <p align=center>
-   <img src="readme-lib\Training.png" alt="Training" width="90%" style="min-width:150px;" />
+   <img src="readme-lib\Training.png" alt="Training" width="90%" style="min-width:160px;" />
 </p>
 
 </br>
@@ -160,7 +160,7 @@ In the detection stage, a sample picture will be imported from the dataset. Then
 
 </br>
 <p align=center>
-   <img src="readme-lib\Detection.png" alt="Detection" width="90%" style="min-width:150px;" />
+   <img src="readme-lib\Detection.png" alt="Detection" width="90%" style="min-width:160px;" />
 </p>
 
 </br>
@@ -181,7 +181,7 @@ CNN, like other neural networks, has input and output layers. There are many hid
 
 </br>
 <p align=center>
-   <img src="readme-lib\Design of CNN.png" alt="Design of CNN" width="95%" style="min-width:150px;" />
+   <img src="readme-lib\Design of CNN.png" alt="Design of CNN" width="95%" style="min-width:170px;" />
 </p>
 
 </br>
@@ -208,7 +208,7 @@ The *training machine* contains `8.00 GB` of **RAM**, a `64-bit` **operating sys
 
 </br>
 <p align=center>
-   <img src="readme-lib\Result plot.png" alt="Result plot" width="70%" style="min-width:100px;" />
+   <img src="readme-lib\Result plot.png" alt="Result plot" width="70%" style="min-width:140px;" />
 </p>
 
 </br>
@@ -225,7 +225,7 @@ When tested with test data, the trained model had an `accuracy` of **92.00 %**. 
 
 </br>
 <p align=center>
-   <img src="readme-lib\Model Performance.png" alt="Model Performance" width="80%" style="min-width:120px;" />
+   <img src="readme-lib\Model Performance.png" alt="Model Performance" width="80%" style="min-width:150px;" />
 </p>
 
 </br>
@@ -239,19 +239,19 @@ Some of the predicted images are shown below,
 
 </br>
 <p align=center>
-   <img src="readme-lib\Detection 01.png" alt="Detection 01" width="40%" style="min-width:80px;" />
+   <img src="readme-lib\Detection 01.png" alt="Detection 01" width="40%" style="min-width:120px;" />
 </p>
 
 </br>
 
 <p align=center>
-   <img src="readme-lib\Detection 02.png" alt="Detection 02" width="25%" style="min-width:80px;" />
+   <img src="readme-lib\Detection 02.png" alt="Detection 02" width="25%" style="min-width:120px;" />
 </p>
    
 </br>
 
 <p align=center>
-   <img src="readme-lib\Detection 04.png" alt="Detection 04" width="40%" style="min-width:80px;" />
+   <img src="readme-lib\Detection 04.png" alt="Detection 04" width="40%" style="min-width:120px;" />
 </p>
 
 </br>
