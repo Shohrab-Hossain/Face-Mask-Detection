@@ -1,0 +1,38 @@
+The directory tree of this project:
+
+
+=== root folder
+   |
+    --> _Trainned-CNN-Model
+   |   |
+        --> cnn-Face-Mask.h5
+   |
+    --> DataSet  *
+   |   |
+        --> annotations
+   |	 |
+	  --> images
+   |
+    --> Processed Data
+   |   |
+        --> cropped_images
+   |   |
+        --> annotations_info.csv
+   |
+    --> 01. Preprocessing  *
+   |
+    --> 02. Training  *
+   |
+    --> 03. Classification  *
+
+
+
+Here, root folder is the folder named '_Sources'.
+
+
+N.B. :
+  (*) marked files/directory required to run the project, 
+  rest of the files/directories will be automatically generated when code runs, if not exist.
+
+
+    
