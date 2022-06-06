@@ -47,7 +47,7 @@ In the field of computer vision, face perception is the most common study topic.
 
 </br>
 <p align=center>
-   <img src="readme-lib\Haar.png" alt="Haar Cascade Features" width="40%" style="min-width:150px;" />
+   <img src="readme-lib\Haar.png" alt="Haar Cascade Features" width="40%" style="min-width:190px;" />
 </p>
 
 </br>
